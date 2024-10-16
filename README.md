@@ -1,4 +1,7 @@
 # training
 Mi primer repositorio de GitHub
 
-añado más lineas
+añado más linea
+
+documentacion desarrollador 2
+
